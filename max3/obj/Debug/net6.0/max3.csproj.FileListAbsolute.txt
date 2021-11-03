@@ -1,0 +1,16 @@
+C:\Users\людмила\Desktop\Seminar002\max3\bin\Debug\net6.0\max3.exe
+C:\Users\людмила\Desktop\Seminar002\max3\bin\Debug\net6.0\max3.deps.json
+C:\Users\людмила\Desktop\Seminar002\max3\bin\Debug\net6.0\max3.runtimeconfig.json
+C:\Users\людмила\Desktop\Seminar002\max3\bin\Debug\net6.0\max3.dll
+C:\Users\людмила\Desktop\Seminar002\max3\bin\Debug\net6.0\ref\max3.dll
+C:\Users\людмила\Desktop\Seminar002\max3\bin\Debug\net6.0\max3.pdb
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.csproj.CoreCompileInputs.cache
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.dll
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\ref\max3.dll
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.pdb
+C:\Users\людмила\Desktop\Seminar002\max3\obj\Debug\net6.0\max3.genruntimeconfig.cache
