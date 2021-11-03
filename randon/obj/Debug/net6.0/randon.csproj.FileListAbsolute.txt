@@ -1,0 +1,6 @@
+C:\Users\людмила\Desktop\Seminar002\randon\obj\Debug\net6.0\randon.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminar002\randon\obj\Debug\net6.0\randon.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminar002\randon\obj\Debug\net6.0\randon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminar002\randon\obj\Debug\net6.0\randon.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminar002\randon\obj\Debug\net6.0\randon.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminar002\randon\obj\Debug\net6.0\randon.csproj.CoreCompileInputs.cache
