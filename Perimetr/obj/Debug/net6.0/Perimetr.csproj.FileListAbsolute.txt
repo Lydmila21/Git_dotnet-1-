@@ -1,0 +1,6 @@
+C:\Users\людмила\Desktop\Seminar002\Perimetr\obj\Debug\net6.0\Perimetr.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminar002\Perimetr\obj\Debug\net6.0\Perimetr.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminar002\Perimetr\obj\Debug\net6.0\Perimetr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminar002\Perimetr\obj\Debug\net6.0\Perimetr.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminar002\Perimetr\obj\Debug\net6.0\Perimetr.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminar002\Perimetr\obj\Debug\net6.0\Perimetr.csproj.CoreCompileInputs.cache
