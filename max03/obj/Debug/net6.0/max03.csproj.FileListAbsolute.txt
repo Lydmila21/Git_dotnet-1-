@@ -1,0 +1,6 @@
+C:\Users\людмила\Desktop\Seminar002\max03\obj\Debug\net6.0\max03.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminar002\max03\obj\Debug\net6.0\max03.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminar002\max03\obj\Debug\net6.0\max03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminar002\max03\obj\Debug\net6.0\max03.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminar002\max03\obj\Debug\net6.0\max03.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminar002\max03\obj\Debug\net6.0\max03.csproj.CoreCompileInputs.cache
